@@ -9,6 +9,11 @@
       "version": "1.0.0",
       "resolved": "ghcr.io/jsburckhardt/devcontainer-features/uv@sha256:542a0bc2203205b3c696de650ba862f280b20af3543493cc232edd9ac35791f7",
       "integrity": "sha256:542a0bc2203205b3c696de650ba862f280b20af3543493cc232edd9ac35791f7"
+    },
+    "ghcr.io/rails/devcontainer/features/sqlite3:latest": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/rails/devcontainer/features/sqlite3@sha256:fa4a12e87152158ed9b67acb819ad2e1bd78c7e3808ff08e786a76a677af2c58",
+      "integrity": "sha256:fa4a12e87152158ed9b67acb819ad2e1bd78c7e3808ff08e786a76a677af2c58"
     }
   }
 }
